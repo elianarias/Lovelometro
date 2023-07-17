@@ -1,2 +1,3 @@
 # Lovelometro
 
+![Inicio](lovemometro.png)
